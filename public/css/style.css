@@ -1,0 +1,32 @@
+* {
+		background-color: rgba(77,57,75,1);
+		color: rgba(239,232,187,1);
+}
+header {
+	text-align: center;
+}
+#posts-display {
+	background-color: rgba(40,37,26,1);
+	margin: 15% 25%;
+	border-radius: 3px;
+}
+
+/* INPUT BOX STARTER STYLE*/
+input {
+  font-size: 2.5em;
+  color: #000;
+  background-color: rgba(230,230,230,1);
+  border: 1px solid black;
+  text-align: left;
+  border-radius: 5px;
+  padding: 2px 3px 2px 3px;
+  background-repeat: no-repeat;
+  background-position: 8px 9px;
+  margin-bottom: 10px;
+}
+
+input:focus, input:hover {
+  background-color: rgba(230,230,230,1);
+  color: white;
+  /*border: 1px solid #1bele4;*/
+}
